@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+<a>ผม นายพิทยา กานต์อาสิญจ์</a><br>
+<a>รหัสนักศึกษา 5808311001</a><br>
+<a>ศึกษาอยู่ในระดับปริญญาตรี ชั้นปีที่ 3<br>
+<a>คณะ เทคโนโลยีสารสนเทศ</a><br>
+<a>สาขา คอมพิวเตอร์ธุรกิจ</a><br>
+<a>มหาวิทยาลัยเนชั่น จังหวัดสำปาง</a><br>
 
-You can use the [editor on GitHub](https://github.com/pittaya2541/Northwind/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pittaya2541/Northwind/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a>ส่วนนี้คืองาน Northwind ในเว็บ www.000webhost.com ของผมครับ</a><br>
+<a href="https://pittayatest.000webhostapp.com/Northwind/NorthWind_All/Select_tb.php">>>>สร้างตาราง Northwind คลิ๊กตรงนี้เลย<<<</a>
