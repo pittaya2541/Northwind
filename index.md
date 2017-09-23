@@ -13,4 +13,4 @@
 
 <a>ส่วนนี้คืองาน Northwind ในเว็บ www.awardspace.com ของผมครับ</a><br>
 <a>Webhost นี้ ทำงานได้ตามปกติ</a><br>
-<a href=http://pittayatest.atwebpages.com/Northwind/NorthWind_All/Select_tb.php>สร้างตาราง Northwind คลิ๊กตรงนี้เลย</a>
+<a href="http://pittayatest.atwebpages.com/Northwind/NorthWind_All/Select_tb.php">สร้างตาราง Northwind คลิ๊กตรงนี้เลย</a>
