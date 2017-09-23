@@ -6,4 +6,4 @@
 <a>มหาวิทยาลัยเนชั่น จังหวัดสำปาง</a><br>
 
 <a>ส่วนนี้คืองาน Northwind ในเว็บ www.000webhost.com ของผมครับ</a><br>
-<a href="https://pittayatest.000webhostapp.com/Northwind/NorthWind_All/Select_tb.php"><a>>>></a>สร้างตาราง Northwind คลิ๊กตรงนี้เลย</a><a><<<</a>
+<a href="https://pittayatest.000webhostapp.com/Northwind/NorthWind_All/Select_tb.php"> >>>สร้างตาราง Northwind คลิ๊กตรงนี้เลย<<< </a>
